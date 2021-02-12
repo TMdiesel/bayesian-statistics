@@ -14,8 +14,10 @@
 - 1次元のポアソン混合モデルの事後分布推論の実装です。
 - 実装
   - ギブスサンプリングによる事後分布推論 [poisson_mixture_model_gs.ipynb][poisson_mixture_model_gs.ipynb]
+  - 変分推論による事後分布推論 [poisson_mixture_model_vi.ipynb][poisson_mixture_model_vi.ipynb]
 
 [poisson_mixture_model_gs.ipynb]:./notebooks/poisson_mixture_model_gs.ipynb
+[poisson_mixture_model_vi.ipynb]:./notebooks/poisson_mixture_model_vi.ipynb
 
 
 ## 参考

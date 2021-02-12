@@ -4,7 +4,7 @@
 - [bayesinan_methods_for_hackers][bayesinan_methods_for_hackers]
     - [Pythonで体験するベイズ推論](https://www.morikita.co.jp/books/book/3155)という書籍内の例題の実装です。(under construction)
 - [approximate_inference][approximate_inference]
-    - 近似推論の実装です。
+    - numpyを用いた近似推論の実装です。
 
 [bayesinan_methods_for_hackers]:./bayesinan_methods_for_hackers
 [approximate_inference]:./approximate_inference
