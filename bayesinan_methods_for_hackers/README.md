@@ -1,9 +1,15 @@
 # Bayesian Methods for Hackers
-- [Pythonで体験するベイズ推論][Pythonで体験するベイズ推論]という書籍内の例題の実装です。(under construction)
+- [Pythonで体験するベイズ推論][Pythonで体験するベイズ推論]という書籍内の例題の実装です。
 
 ## 実装
 - chapter1
   - ベイズ変化点検知
+- chapter2
+  - A/Bテスト
+  - ベイズロジスティック回帰
+- chapter3
+  - 混合モデル
+  - arvizによる可視化
 
 ## 参考
 - [Pythonで体験するベイズ推論][Pythonで体験するベイズ推論]
