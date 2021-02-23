@@ -1176,7 +1176,7 @@ viz = ["matplotlib", "seaborn", "nc-time-axis"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "e61caf928f4d0f986315439191fcd5c3d6cb79203fbe2de4f11155a9a77c683c"
+content-hash = "7928148e53f74de3bb2db2a3eeb89a08c18bbb5a16523ce33a3eae130162d879"
 
 [metadata.files]
 anyio = [
