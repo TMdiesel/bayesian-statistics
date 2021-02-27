@@ -7,7 +7,10 @@
     - numpyを用いた近似推論の実装です。
 - [pymc3][pymc3]
     - PyMC3の練習です。
+- [bayesian_position_estimation][bayesian_position_estimation]
+    - ベイズ自己位置推定です。実装にはNumPyroを用いています。
 
 [bayesinan_methods_for_hackers]:./bayesinan_methods_for_hackers
 [approximate_inference]:./approximate_inference
 [pymc3]:./pymc3
+[bayesian_position_estimation]:./bayesian_position_estimation
