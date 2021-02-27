@@ -23,3 +23,4 @@
 [hierarchical_model.ipynb]:./notebooks/hierarchical_model.ipynb
 [A Hierarchical model for Rugby prediction]:https://pymc3.readthedocs.io/en/latest/notebooks/rugby_analytics.html
 [JFA]:https://www.jfa.jp/samuraiblue/worldcup2018_final_q/schedule_result/
+
