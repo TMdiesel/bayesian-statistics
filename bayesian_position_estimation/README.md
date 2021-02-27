@@ -10,7 +10,6 @@
 - 移動体のマルコフ性は仮定しておらず、任意の時刻において移動体位置xの事前情報はないとする。
 
 ## 推論
-- pymc3でしようと試みたが`AttributeError: module 'theano' has no attribute 'gof'`が出て、これの解決方法が分からなかったので、numpyroで実装
 - numpyroはWindows環境ではサポートが制限されているようなので([参照](https://pypi.org/project/numpyro/))、Windows Subsystem for Linuxを使用
 - 実装には、[HELLO CYBERNETICS](https://www.hellocybernetics.tech/entry/2020/09/09/093000)さんなどの記事を参照
 
